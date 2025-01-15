@@ -1,7 +1,7 @@
 #  Hola, soy Fausto Mendoza
 
 <p align="center">
-  <img src="https://github.com/PJMP4826/PJMP4826/blob/main/info.jpg?raw=true" alt="Mi Banner" width="100%">
+  <img src="https://github.com/PJMP4826/PJMP4826/blob/main/profileInfo.jpeg?raw=true" alt="Mi Banner" width="100%">
 </p>
 
 Soy **Fausto Javier Mendoza Pérez**, un entusiasta desarrollador de software. 
