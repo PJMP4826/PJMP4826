@@ -1,16 +1,31 @@
-## Hi there 👋
+#  Hola, soy Fausto Mendoza
 
-<!--
-**PJMP4826/PJMP4826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://wallpapers.com/images/high/4k-minimalist-blue-mountain-ndma0rs4nsj9xoh4.webp" alt="Mi Banner" width="100%">
+</p>
 
-Here are some ideas to get you started:
+Soy **Fausto Javier Mendoza Pérez**, un entusiasta desarrollador de software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tecnologías y Herramientas que uso:
+- **Lenguajes**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- **Bases de Datos**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **Herramientas**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📚 Sobre mí:
+- 🎓 Actualmente curso **TSU en Tecnologías de la Información Área Desarrollo de Software Multiplataforma** en la **Universidad Tecnológica de Tabasco**.
+- 🌱 Estoy aprendiendo **Kotlin** y desarrollo de aplicaciones móviles.
+- 💡 Desarrollando proyectos como:
+  - **BillsScan: Gestor de tickets de compra con OCR** 📄
+  - **Flash Pop Balloon**, un divertido juego interactivo 🎮
+
+
+
+
+
+
+
