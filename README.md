@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/PJMP4826/PJMP4826/refs/heads/main/README_GITHUB_BANNER.png" alt="My Banner" width="100%">
 </p>
 
-I'm **Fausto Javier Mendoza Pérez**, a passionate software developer currently pursuing a degree in **Software Development and Management Engineering** at **Universidad Tecnológica de Tabasco**.
+I'm **Fausto Javier Mendoza Pérez**, a passionate software developer currently pursuing a degree in **Ingeniería en Desarrollo y Gestión de Software** at **Universidad Tecnológica de Tabasco**.
 
 ---
 
@@ -46,7 +46,7 @@ I'm **Fausto Javier Mendoza Pérez**, a passionate software developer currently 
 
 ## About Me
 
-- Software Development and Management Engineering student at **Universidad Tecnológica de Tabasco**
+- Ingeniería en Desarrollo y Gestión de Software student at **Universidad Tecnológica de Tabasco**
 - Currently deepening my knowledge in **Laravel** and **LlamaIndex**
 - Building AI-powered and full-stack solutions
 - Always learning and exploring new technologies
@@ -71,6 +71,5 @@ RESTful API for construction materials management, developed in pure PHP applyin
 
 ## Let's Connect
 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fausto-javier-mendoza-p%C3%A9rez-79a236353)
-- [Email](mailto:faustojaviermendozaperez.tareas@gmail.com
-)
+- [LinkedIn](www.linkedin.com/in/fausto-javier-mendoza-pérez-79a236353)
+- [Email](mailto:faustojaviermendozaperez.tareas@gmail.com)
